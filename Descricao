@@ -1,0 +1,9 @@
+
+Através de uma notação infixada, fornecer a notação pró-fixada.
+
+Executando...
+Criação de uma interface simples pra entrada de texto, 
+digite uma fórmula matemática com separação(' ') entre os caracteres.
+
+A saída do programa mostrará uma notação pós-fixada baseada na entrada fornecida.
+Também retornará o resultado do calculo informado na entrada.
